@@ -1,10 +1,4 @@
-# firefox-addon
-
-# Hotkeys
-
-Alt-F4         close the current tab
-Alt-F5         close tabs to the right of the current tab
-Ctrl-Shift-P   pin/unpin current tab
+## fixefor-addon
 
 # Load temporary
 

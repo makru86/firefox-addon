@@ -25,12 +25,6 @@
         "default": "Alt+F3"
       },
       "description": "Close all tabs to the left"
-    },
-    "pin-unpin-tab": {
-      "suggested_key": {
-        "default": "Ctrl+Shift+P"
-    },
-    "description": "Pin or unpin the current tab"
     }
   },
   "host_permissions": ["<all_urls>"],
